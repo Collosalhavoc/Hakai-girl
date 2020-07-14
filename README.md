@@ -1,20 +1,20 @@
-# tgbot
+# Hakai girl
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a simple group management bot with multiple admin features, it has evolved into becoming a basis for modular
 bots aiming to provide simple plugin expansion via a simple drag and drop.
 
-Can be found on telegram as [Marie](https://t.me/BanhammerMarie_bot).
+Can be found on telegram as [Hakai girl](https://t.me/Hakai_girl_bot).
 
-For questions regarding creating your own bot, please head to [this chat](https://t.me/MarieOT) where you'll find a
+For questions regarding creating your own bot, please head to [this chat](https://t.me/Message_dump_group) where you'll find a
 group of volunteers to help. We'll also help when a database schema changes, and some table column needs to be
 modified/added (this info can also be found in the commit messages)
 
 
-Join the [news channel](https://t.me/MarieNews) if you just want to stay in the loop about new features or
+Join the [news channel](https://t.me/Message_dump_group) if you just want to stay in the loop about new features or
 announcements.
 
-Marie and I can also be found moderating the [marie support group](https://t.me/MarieSupport) aimed at providing help
+Marie and I can also be found moderating the [marie support group](https://t.me/Message_dump_group) aimed at providing help
 setting up Marie in your chats (*not* for bot clones).
 Feel free to join to report bugs, and stay in the loop on the status of the bot development.
 
@@ -24,7 +24,7 @@ Note to maintainers that all schema changes will be found in the commit messages
 ## IMPORTANT NOTICE:
 
 This project is no longer under active maintenance. Occasional bug fixes may be released, but no new features are scheduled to be added.
-Users of [Marie](https://t.me/BanhammerMarie_bot) are encouraged to migrate to [Rose](https://t.me/MissRose_bot), which
+Users of [Hakai girl](https://t.me/Hakai_girl_bot) are encouraged to migrate to [Rose](https://t.me/MissRose_bot), which
 is the improved version of this project, written in golang, with scalability in mind.
 
 ## Starting the bot.
@@ -57,7 +57,7 @@ from tg_bot.sample_config import Config
 
 class Development(Config):
     OWNER_ID = 254318997  # my telegram ID
-    OWNER_USERNAME = "SonOfLars"  # my telegram username
+    OWNER_USERNAME = "Collosal_havoc"  # my telegram username
     API_KEY = "your bot api key"  # my api key, as provided by the botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     MESSAGE_DUMP = '-1234567890' # some group chat that your bot is a member of
