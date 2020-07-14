@@ -1,4 +1,4 @@
-![Hakai girl](https://pinterest.com/pin.it/3uX1HhB.jpg)
+![Hakai girl](https://in.pinterest.com/pin/642255596842809290/sent/?invite_code=20905143461c4c8f9726a1b403203547&sender=696369298540748903&sfo=1.jpg)
 # Hakai girl
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
