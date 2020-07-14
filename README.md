@@ -1,4 +1,4 @@
-![Hakai girl](https://imgur.com/fLB0R.jpg)
+![Hakai girl](https://pin.it/3uX1HhB.gif)
 # Hakai girl
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
