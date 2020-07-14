@@ -1,3 +1,4 @@
+![Enterprise](https://images.app.goo.gl/UVKRZ3AzKQb8NDqk6.img)
 # Hakai girl
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
