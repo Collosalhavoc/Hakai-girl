@@ -7,15 +7,15 @@ bots aiming to provide simple plugin expansion via a simple drag and drop.
 
 Can be found on telegram as [Hakai girl](https://t.me/Hakai_girl_bot).
 
-For questions regarding creating your own bot, please head to [this chat](https://t.me/Message_dump_group) where you'll find a
+For questions regarding creating your own bot, please head to [this chat](https://t.me/messagedumpgroup) where you'll find a
 group of volunteers to help. We'll also help when a database schema changes, and some table column needs to be
 modified/added (this info can also be found in the commit messages)
 
 
-Join the [news channel](https://t.me/Message_dump_group) if you just want to stay in the loop about new features or
+Join the [news channel](https://t.me/messagedumpgroup) if you just want to stay in the loop about new features or
 announcements.
 
-Marie and I can also be found moderating the [Hakai-girl support group](https://t.me/Message_dump_group) aimed at providing help
+Marie and I can also be found moderating the [Hakai-girl support group](https://t.me/messagedumpgroup) aimed at providing help
 setting up Marie in your chats (*not* for bot clones).
 Feel free to join to report bugs, and stay in the loop on the status of the bot development.
 
